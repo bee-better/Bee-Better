@@ -28,3 +28,11 @@
  
 Όλες οι παραπάνω λειτουργίες θα συντονίζονται μέσω μιας μητρικής πλακέτας κι ενός θερμοστάτη, που θα χειρίζεται ο μελισσοκόμος χειροκίνητα. Η πλακέτα εμποδίζει τυχόν βραχυκυκλώματα και ελέγχει την ροή ρεύματος, σύμφωνα με τα δεδομένα. 
 
+## Βιβλιογραφία
+* Bee, I. (1975). Five hundred answers to bee questions. Medina, Ohio: A.I. Root Company.
+* Χαριζάνης, Π. (2017). Μέλισσα Και Μελισσοκομική Τεχνική. Μελισσοκομική Επιθεώρηση.
+* Clement, H. (2017). Σύγχρονη Μελισσοκομία. Ψύχαλος.
+* Jean - Prost, P. and Medori, P. (1991). Μελισσοκομία. Ψύχαλος.
+* Tompkins, E.H., Griffith, R. and United States. Agricultural Research Service (1977). Practical beekeeping. Charlotte, Vt.: Garden Way Pub.
+* Randy, O. (2006). Scientific Beekeeping - Beekeeping Through The Eyes of a Biologist. [online] Available at: https://scientificbeekeeping.com [Accessed 21 Feb. 2022].
+
