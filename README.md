@@ -46,7 +46,10 @@
 * Arduino MKR 1010
 * Καλώδια
 
-## Βιβλιογραφία
+# Video
+https://youtu.be/bfxSGEeoUro
+
+# Βιβλιογραφία
 * Bee, I. (1975). Five hundred answers to bee questions. Medina, Ohio: A.I. Root Company.
 * Χαριζάνης, Π. (2017). Μέλισσα Και Μελισσοκομική Τεχνική. Μελισσοκομική Επιθεώρηση.
 * Clement, H. (2017). Σύγχρονη Μελισσοκομία. Ψύχαλος.
